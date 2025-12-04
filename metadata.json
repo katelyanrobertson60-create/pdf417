@@ -1,0 +1,5 @@
+{
+  "name": "AAMVA PDF417 Barcode Generator",
+  "description": "A tool to manually generate PDF417 barcodes for U.S. driver's license data following AAMVA standards. Enter data into the form to generate and download a barcode image.",
+  "requestFramePermissions": []
+}
